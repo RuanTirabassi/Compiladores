@@ -23,15 +23,6 @@ Este projeto é uma calculadora simples que analisa e avalia expressões aritmé
 
 ## Exemplo
 
-Entrada: `"3 + 5 * 2 - 8 / 4"`
+Entrada: `"5 + 5 * 5"`
 
-Saída: `Resultado: 9`
-
-## Uso
-
-### Compilação
-
-Para compilar o código, use um compilador de C++ como o `g++`. No terminal, navegue até o diretório do projeto e execute:
-
-```bash
-g++ -o calculadora calculadora.cpp
+Saída: `Resultado: 30`
