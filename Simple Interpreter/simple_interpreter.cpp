@@ -202,7 +202,7 @@ int evaluate(const std::unique_ptr<ASTNode> &node)
 
 int main()
 {
-    std::string input = "3 + 5 * 2 - 8 / 4";
+    std::string input = "5 + 5 * 5";
     auto tokens = tokenize(input);
 
     Parser parser(tokens);
