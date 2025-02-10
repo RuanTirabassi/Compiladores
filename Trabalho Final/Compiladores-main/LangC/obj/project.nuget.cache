@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Obn9pK2E6gg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\BasicInt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marciohenrique\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
