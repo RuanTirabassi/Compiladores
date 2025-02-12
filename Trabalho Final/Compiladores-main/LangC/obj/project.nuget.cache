@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Obn9pK2E6gg=",
+  "dgSpecHash": "5nenGxaug7E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\BasicInt.csproj",
+  "projectFilePath": "C:\\Users\\ruan0\\OneDrive\\Documentos\\GitHub\\Compiladores\\Trabalho Final\\Compiladores-main\\LangC\\BasicInt.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marciohenrique\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+    "C:\\Users\\ruan0\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
   ],
   "logs": []
 }

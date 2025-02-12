@@ -1,15 +1,19 @@
 #include <stdio.h>
-#include <math>
-#define opa 3.14
-
-void teste() {
-    printf("testando");
-}
 
 int main() {
-    int result = sum(10, 32);
-    printf(result);
-    printf(opa);
-    teste();
+    int v1 = 1;
+    int v2 = 100;
+
+    if (v1 == v2 || v2 == 100) {
+        printf("Entrou no if");
+    } else {
+        printf("Entrou no else");
+    }
+
+    if (v1 == v2 && v2 == 100) {
+        printf("Entrou no if");
+    } else {
+        printf("Entrou no else");
+    }
     return 0;
 }

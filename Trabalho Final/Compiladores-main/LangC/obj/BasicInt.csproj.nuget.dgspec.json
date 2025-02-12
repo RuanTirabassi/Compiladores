@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\BasicInt.csproj": {}
+    "C:\\Users\\ruan0\\OneDrive\\Documentos\\GitHub\\Compiladores\\Trabalho Final\\Compiladores-main\\LangC\\BasicInt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\BasicInt.csproj": {
+    "C:\\Users\\ruan0\\OneDrive\\Documentos\\GitHub\\Compiladores\\Trabalho Final\\Compiladores-main\\LangC\\BasicInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\BasicInt.csproj",
+        "projectUniqueName": "C:\\Users\\ruan0\\OneDrive\\Documentos\\GitHub\\Compiladores\\Trabalho Final\\Compiladores-main\\LangC\\BasicInt.csproj",
         "projectName": "BasicInt",
-        "projectPath": "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\BasicInt.csproj",
-        "packagesPath": "C:\\Users\\marciohenrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marciohenrique\\Downloads\\uenp\\TF_Compiladores-main\\LangC\\obj\\",
+        "projectPath": "C:\\Users\\ruan0\\OneDrive\\Documentos\\GitHub\\Compiladores\\Trabalho Final\\Compiladores-main\\LangC\\BasicInt.csproj",
+        "packagesPath": "C:\\Users\\ruan0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruan0\\OneDrive\\Documentos\\GitHub\\Compiladores\\Trabalho Final\\Compiladores-main\\LangC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marciohenrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ruan0\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
